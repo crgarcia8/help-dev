@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React(NEW PUSH22)
+          Estos son ajustes del nuevo Branch - Otro push
         </a>
       </header>
     </div>
