@@ -15,7 +15,9 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
+          Texto anterior
           Estos son ajustes del nuevo Branch - Otro push
+          Nuevo deploy
         </a>
       </header>
     </div>
